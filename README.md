@@ -1,4 +1,4 @@
-## aws-api - Ruby
+## AWS-API - Ruby
 ![temporary logo](https://bt-strike.s3-us-west-2.amazonaws.com/images/ruby.gif "aws-api-ruby temporary logo")
 
 A set of ruby scripts featuring the AWS SDK to perform select AWS functionalities from the terminal. Use at your own risk.
